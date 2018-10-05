@@ -1,0 +1,24 @@
+
+
+@font-face {
+font-family: 'V';
+src: url('../font/HelveticaHeavy/HelveticaHeavy.eot');
+src: url('../font/HelveticaHeavy/HelveticaHeavy.eot') format('embedded-opentype'),
+url('../font/HelveticaHeavy/HelveticaHeavy.woff') format('woff'),
+url('../font/HelveticaHeavy/HelveticaHeavy.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face{
+	font-family: "MontserratBold";
+	src: url("../fonts/Montserrat-Bold.otf");
+	font-style: bold;
+	font-weight: normal;
+}
+@font-face{
+	font-family: "Montserrat-Light";
+	src: url("../fonts/Montserrat-Light.otf");
+	font-style: normal;
+	font-weight: normal;
+}

@@ -1,0 +1,162 @@
+@media screen and (max-width:2200px)
+{
+
+}
+
+@media screen and (max-width:2000px)
+{
+
+}
+@media screen and (max-width:1800px)
+{
+
+}
+@media screen and (max-width:1700px){
+
+}
+@media screen and (max-width:1400px){
+
+}
+
+@media screen and (max-width:1350px){
+
+}
+
+@media screen and (max-width:1250px)
+{
+
+/*.menu{
+	right: 20px;
+}*/
+}
+
+@media screen and (max-width:1050px){
+
+}
+
+
+@media screen and (max-width:1020px){
+    .logo{
+        margin-right: 15px;
+    }
+    .menu{
+    	display: none;
+        margin-top: 60px;
+    }
+    .menu_nav{
+    /*position: absolute;*/
+}
+    #nav-btn
+    {
+        position: absolute;
+        right: 95px;
+        display: inline-block;
+        width: 50px;
+        height: 35px;
+    }
+    .menu li
+    {
+        display: inline-block;
+        text-align: center;
+    }
+    .buttons{
+    float:left;
+    margin-right: 10px;
+    }
+}
+@media screen and (max-width:992px){
+    .why{
+        margin-bottom: 20px;
+    }
+}
+@media screen and (max-width:800px)
+{
+    #nav-btn {
+    right: 15px;
+}
+.menu_nav{
+    position: absolute;
+    right: 15px;
+}
+.menu li{
+    display: inline-block;
+    padding-top: 20px;
+    text-align: right;
+}
+.menu li:before {
+  margin-top: 0px;
+  margin-left: -15px;
+}
+}
+
+@media screen and (max-width:750px)
+{
+
+
+
+
+}
+
+@media screen and (max-width:700px){
+
+}
+
+@media screen and (max-width:650px){
+
+}
+
+@media screen and (max-width:540px){
+	.menu{
+	/*margin-right: -17px;*/
+	}
+
+/*	#nav-btn {
+	right: 25px;
+}*/
+
+}
+
+@media screen and (max-width:550px){
+	.menu li{
+    display: block;
+    text-align: center;
+	}
+    .menu_nav{
+    position: relative;
+    display: block;
+    top:40px;
+    margin: 0 auto;
+    /*right: 15px;*/
+}
+    #nav-btn{
+        top:80px;
+    }
+    .buttons{
+        position: absolute;
+        top:15px;
+        left:10%;
+    }
+    .logo{
+        position: absolute;
+        top:80px;
+    }
+}
+
+@media screen and (max-width:370px){
+
+}
+
+@media screen and (max-width:340px){
+
+}
+@media screen and (max-width:317px){
+
+	#nav-btn{
+		margin-top: -15px;
+	}
+}
+@media screen and (max-width:240px){
+.container{
+	padding-left: 5px;
+}
+}
